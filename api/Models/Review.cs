@@ -6,8 +6,12 @@
 
         public string Title { get; set; }
 
-
         public string tEXT { get; set; }
+
+        public Revier Reviewer { get; set; }
+
+        
+       public Pokemon Pokemon  { get; set; }
     }
 
 }

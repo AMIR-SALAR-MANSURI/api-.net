@@ -8,6 +8,7 @@
 
         public DateTime Brithday  { get; set; }
 
-        public Pokemon() { }
+        public ICollection<Review> Reviews { get; set; }
+
     }
 }
