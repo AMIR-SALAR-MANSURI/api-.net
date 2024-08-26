@@ -10,7 +10,6 @@
 
         public Revier Reviewer { get; set; }
 
-        
        public Pokemon Pokemon  { get; set; }
     }
 
